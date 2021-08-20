@@ -22,6 +22,8 @@
 
 ## 歡迎來到NCU-App支援頁面
 
+<a href='https://play.google.com/store/apps/details?id=tw.edu.ncu.app&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play立即下載' src='https://play.google.com/intl/en_us/badges/static/images/badges/zh-tw_badge_web_generic.png'/></a>
+
 ### 聯絡方式
 
 如果有任何需要支援或是問題，歡迎與我們聯絡!
